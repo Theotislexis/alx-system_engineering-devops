@@ -1,2 +1,3 @@
 #!/bin/bash
-echo /tmp/correction/4998471530192580687993764088270780755394_5/205/95323/0x00-shell_basics     
+echo     ./0-current_working_directory
+/root/alx-system_engineering-devops/0x00-shell_basics
